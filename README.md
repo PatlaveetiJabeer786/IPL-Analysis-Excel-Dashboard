@@ -3,7 +3,7 @@
 
 IPL Data Analysis & Interactive Dashboard
 
-![IPL Dashboard Preview](D:\Excel_Projects\IPL_Project\IPL_Dashboard.png)
+![IPL Dashboard Preview](IPL_Dashboard.png)
 
 Project Overview
 Developed a comprehensive end-to-end data analysis solution using Advanced Excel to uncover insights from IPL matches spanning 2008 to 2020. This project transforms raw match data into a strategic tool for tracking team performance, toss impacts, and player accolades.
